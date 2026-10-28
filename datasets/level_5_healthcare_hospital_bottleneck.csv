@@ -1,0 +1,241 @@
+﻿Department,Time Slot,Appointments,No-Shows,Average Wait Min,Staff,Equipment Utilisation %,Patient Rating,Operating Cost ₹k,Record ID,Case ID
+General OPD,Morning,245,29,33,18,82,4.2,403,L5-001,PT-001
+Diagnostics,Morning,180,18,82,12,90,3.2,525,L5-002,PT-002
+Diagnostics,Afternoon,157,42,52,12,52,3.5,495,L5-003,PT-003
+Diagnostics,Evening,134,30,62,11,64,3.3,465,L5-004,PT-004
+Cardiology,Morning,113,12,41,10,79,4.1,369,L5-005,PT-005
+Orthopaedics,Afternoon,126,20,36,11,73,4,374,L5-006,PT-006
+General OPD,Evening,188,21,30,15,76,4.2,398,L5-007,PT-007
+Diagnostics,Late,92,22,44,8,46,3.6,300,L5-008,PT-008
+General OPD,Morning,250,27,34,18,83,3.9,412,L5-009,PT-009
+Diagnostics,Morning,184,19,77,12,92,3.3,490,L5-010,PT-010
+Diagnostics,Afternoon,160,43,53,12,53,3.5,505,L5-011,PT-011
+Diagnostics,Evening,137,31,63,11,60,3.4,475,L5-012,PT-012
+Cardiology,Morning,106,12,42,10,80,3.8,376,L5-013,PT-013
+Orthopaedics,Afternoon,129,18,37,11,74,4,349,L5-014,PT-014
+General OPD,Evening,192,22,28,16,78,4.3,406,L5-015,PT-015
+Diagnostics,Late,94,22,45,8,47,3.7,306,L5-016,PT-016
+General OPD,Morning,233,28,34,19,78,4,420,L5-017,PT-017
+Diagnostics,Morning,187,17,78,12,94,3.1,500,L5-018,PT-018
+Diagnostics,Afternoon,163,44,49,12,55,3.6,470,L5-019,PT-019
+Diagnostics,Evening,140,32,64,11,61,3.4,484,L5-020,PT-020
+Cardiology,Morning,108,12,43,10,75,3.9,384,L5-021,PT-021
+Orthopaedics,Afternoon,120,19,38,11,76,4,356,L5-022,PT-022
+General OPD,Evening,196,20,28,16,80,4.4,378,L5-023,PT-023
+Diagnostics,Late,96,23,42,8,48,3.8,312,L5-024,PT-024
+General OPD,Morning,238,28,35,17,79,4.1,428,L5-025,PT-025
+Diagnostics,Morning,175,18,80,12,87,3.1,510,L5-026,PT-026
+Diagnostics,Afternoon,166,41,50,12,56,3.4,480,L5-027,PT-027
+Diagnostics,Evening,143,32,60,11,63,3.5,451,L5-028,PT-028
+Cardiology,Morning,110,12,44,10,76,3.9,391,L5-029,PT-029
+Orthopaedics,Afternoon,123,19,39,11,71,4,364,L5-030,PT-030
+General OPD,Evening,182,21,29,16,81,4.1,386,L5-031,PT-031
+Diagnostics,Late,98,21,43,8,49,3.8,291,L5-032,PT-032
+General OPD,Morning,242,29,33,18,81,4.2,437,L5-033,PT-033
+Diagnostics,Morning,178,18,81,12,89,3.2,520,L5-034,PT-034
+Diagnostics,Afternoon,155,42,52,12,52,3.4,490,L5-035,PT-035
+Diagnostics,Evening,146,30,61,11,64,3.3,461,L5-036,PT-036
+Cardiology,Morning,112,12,41,10,78,4,365,L5-037,PT-037
+Orthopaedics,Afternoon,125,19,40,11,72,4,371,L5-038,PT-038
+General OPD,Evening,186,21,30,17,76,4.2,394,L5-039,PT-039
+Diagnostics,Late,91,22,44,8,50,3.6,297,L5-040,PT-040
+General OPD,Morning,247,27,33,18,83,4.3,407,L5-041,PT-041
+Diagnostics,Morning,182,19,76,12,91,3.3,530,L5-042,PT-042
+Diagnostics,Afternoon,158,42,53,12,53,3.5,500,L5-043,PT-043
+Diagnostics,Evening,136,31,63,11,60,3.3,470,L5-044,PT-044
+Cardiology,Morning,114,12,42,10,79,3.7,372,L5-045,PT-045
+Orthopaedics,Afternoon,128,20,37,11,74,4,346,L5-046,PT-046
+General OPD,Evening,190,21,30,16,77,4.2,402,L5-047,PT-047
+Diagnostics,Late,93,22,45,8,47,3.7,303,L5-048,PT-048
+General OPD,Morning,230,27,34,18,84,4,416,L5-049,PT-049
+Diagnostics,Morning,185,17,77,12,93,3.3,495,L5-050,PT-050
+Diagnostics,Afternoon,162,43,49,12,54,3.6,510,L5-051,PT-051
+Diagnostics,Evening,139,31,64,11,61,3.4,479,L5-052,PT-052
+Cardiology,Morning,107,12,42,10,74,3.8,380,L5-053,PT-053
+Orthopaedics,Afternoon,130,18,38,11,75,4,353,L5-054,PT-054
+General OPD,Evening,194,22,28,16,79,4.3,374,L5-055,PT-055
+Diagnostics,Late,95,22,46,8,48,3.7,309,L5-056,PT-056
+General OPD,Morning,235,28,35,19,79,4.1,424,L5-057,PT-057
+Diagnostics,Morning,173,18,79,12,95,3.1,505,L5-058,PT-058
+Diagnostics,Afternoon,165,40,50,12,55,3.6,475,L5-059,PT-059
+Diagnostics,Evening,141,32,60,11,62,3.5,489,L5-060,PT-060
+Cardiology,Morning,109,12,43,10,75,3.9,388,L5-061,PT-061
+Orthopaedics,Afternoon,121,19,38,11,70,4,360,L5-062,PT-062
+General OPD,Evening,198,20,29,16,80,4,382,L5-063,PT-063
+Diagnostics,Late,97,23,43,8,48,3.8,288,L5-064,PT-064
+General OPD,Morning,240,29,35,17,80,4.1,433,L5-065,PT-065
+Diagnostics,Morning,176,18,81,12,88,3.2,515,L5-066,PT-066
+Diagnostics,Afternoon,154,41,51,12,56,3.4,485,L5-067,PT-067
+Diagnostics,Evening,144,30,61,11,63,3.5,456,L5-068,PT-068
+Cardiology,Morning,111,12,40,10,77,4,395,L5-069,PT-069
+Orthopaedics,Afternoon,124,19,39,11,72,4,367,L5-070,PT-070
+General OPD,Evening,184,21,29,16,75,4.1,390,L5-071,PT-071
+Diagnostics,Late,99,21,44,8,49,3.6,294,L5-072,PT-072
+General OPD,Morning,245,29,33,18,82,4.2,403,L5-073,PT-073
+Diagnostics,Morning,180,18,82,12,90,3.2,525,L5-074,PT-074
+Diagnostics,Afternoon,157,42,52,12,52,3.5,495,L5-075,PT-075
+Diagnostics,Evening,134,30,62,11,64,3.3,465,L5-076,PT-076
+Cardiology,Morning,113,12,41,10,79,4.1,369,L5-077,PT-077
+Orthopaedics,Afternoon,126,20,36,11,73,4,374,L5-078,PT-078
+General OPD,Evening,188,21,30,15,76,4.2,398,L5-079,PT-079
+Diagnostics,Late,92,22,44,8,46,3.6,300,L5-080,PT-080
+General OPD,Morning,250,27,34,18,83,3.9,412,L5-081,PT-081
+Diagnostics,Morning,184,19,77,12,92,3.3,490,L5-082,PT-082
+Diagnostics,Afternoon,160,43,53,12,53,3.5,505,L5-083,PT-083
+Diagnostics,Evening,137,31,63,11,60,3.4,475,L5-084,PT-084
+Cardiology,Morning,106,12,42,10,80,3.8,376,L5-085,PT-085
+Orthopaedics,Afternoon,129,18,37,11,74,4,349,L5-086,PT-086
+General OPD,Evening,192,22,28,16,78,4.3,406,L5-087,PT-087
+Diagnostics,Late,94,22,45,8,47,3.7,306,L5-088,PT-088
+General OPD,Morning,233,28,34,19,78,4,420,L5-089,PT-089
+Diagnostics,Morning,187,17,78,12,94,3.1,500,L5-090,PT-090
+Diagnostics,Afternoon,163,44,49,12,55,3.6,470,L5-091,PT-091
+Diagnostics,Evening,140,32,64,11,61,3.4,484,L5-092,PT-092
+Cardiology,Morning,108,12,43,10,75,3.9,384,L5-093,PT-093
+Orthopaedics,Afternoon,120,19,38,11,76,4,356,L5-094,PT-094
+General OPD,Evening,196,20,28,16,80,4.4,378,L5-095,PT-095
+Diagnostics,Late,96,23,42,8,48,3.8,312,L5-096,PT-096
+General OPD,Morning,238,28,35,17,79,4.1,428,L5-097,PT-097
+Diagnostics,Morning,175,18,80,12,87,3.1,510,L5-098,PT-098
+Diagnostics,Afternoon,166,41,50,12,56,3.4,480,L5-099,PT-099
+Diagnostics,Evening,143,32,60,11,63,3.5,451,L5-100,PT-100
+Cardiology,Morning,110,12,44,10,76,3.9,391,L5-101,PT-101
+Orthopaedics,Afternoon,123,19,39,11,71,4,364,L5-102,PT-102
+General OPD,Evening,182,21,29,16,81,4.1,386,L5-103,PT-103
+Diagnostics,Late,98,21,43,8,49,3.8,291,L5-104,PT-104
+General OPD,Morning,242,29,33,18,81,4.2,437,L5-105,PT-105
+Diagnostics,Morning,178,18,81,12,89,3.2,520,L5-106,PT-106
+Diagnostics,Afternoon,155,42,52,12,52,3.4,490,L5-107,PT-107
+Diagnostics,Evening,146,30,61,11,64,3.3,461,L5-108,PT-108
+Cardiology,Morning,112,12,41,10,78,4,365,L5-109,PT-109
+Orthopaedics,Afternoon,125,19,40,11,72,4,371,L5-110,PT-110
+General OPD,Evening,186,21,30,17,76,4.2,394,L5-111,PT-111
+Diagnostics,Late,91,22,44,8,50,3.6,297,L5-112,PT-112
+General OPD,Morning,247,27,33,18,83,4.3,407,L5-113,PT-113
+Diagnostics,Morning,182,19,76,12,91,3.3,530,L5-114,PT-114
+Diagnostics,Afternoon,158,42,53,12,53,3.5,500,L5-115,PT-115
+Diagnostics,Evening,136,31,63,11,60,3.3,470,L5-116,PT-116
+Cardiology,Morning,114,12,42,10,79,3.7,372,L5-117,PT-117
+Orthopaedics,Afternoon,128,20,37,11,74,4,346,L5-118,PT-118
+General OPD,Evening,190,21,30,16,77,4.2,402,L5-119,PT-119
+Diagnostics,Late,93,22,45,8,47,3.7,303,L5-120,PT-120
+General OPD,Morning,230,27,34,18,84,4,416,L5-121,PT-121
+Diagnostics,Morning,185,17,77,12,93,3.3,495,L5-122,PT-122
+Diagnostics,Afternoon,162,43,49,12,54,3.6,510,L5-123,PT-123
+Diagnostics,Evening,139,31,64,11,61,3.4,479,L5-124,PT-124
+Cardiology,Morning,107,12,42,10,74,3.8,380,L5-125,PT-125
+Orthopaedics,Afternoon,130,18,38,11,75,4,353,L5-126,PT-126
+General OPD,Evening,194,22,28,16,79,4.3,374,L5-127,PT-127
+Diagnostics,Late,95,22,46,8,48,3.7,309,L5-128,PT-128
+General OPD,Morning,235,28,35,19,79,4.1,424,L5-129,PT-129
+Diagnostics,Morning,173,18,79,12,95,3.1,505,L5-130,PT-130
+Diagnostics,Afternoon,165,40,50,12,55,3.6,475,L5-131,PT-131
+Diagnostics,Evening,141,32,60,11,62,3.5,489,L5-132,PT-132
+Cardiology,Morning,109,12,43,10,75,3.9,388,L5-133,PT-133
+Orthopaedics,Afternoon,121,19,38,11,70,4,360,L5-134,PT-134
+General OPD,Evening,198,20,29,16,80,4,382,L5-135,PT-135
+Diagnostics,Late,97,23,43,8,48,3.8,288,L5-136,PT-136
+General OPD,Morning,240,29,35,17,80,4.1,433,L5-137,PT-137
+Diagnostics,Morning,176,18,81,12,88,3.2,515,L5-138,PT-138
+Diagnostics,Afternoon,154,41,51,12,56,3.4,485,L5-139,PT-139
+Diagnostics,Evening,144,30,61,11,63,3.5,456,L5-140,PT-140
+Cardiology,Morning,111,12,40,10,77,4,395,L5-141,PT-141
+Orthopaedics,Afternoon,124,19,39,11,72,4,367,L5-142,PT-142
+General OPD,Evening,184,21,29,16,75,4.1,390,L5-143,PT-143
+Diagnostics,Late,99,21,44,8,49,3.6,294,L5-144,PT-144
+General OPD,Morning,245,29,33,18,82,4.2,403,L5-145,PT-145
+Diagnostics,Morning,180,18,82,12,90,3.2,525,L5-146,PT-146
+Diagnostics,Afternoon,157,42,52,12,52,3.5,495,L5-147,PT-147
+Diagnostics,Evening,134,30,62,11,64,3.3,465,L5-148,PT-148
+Cardiology,Morning,113,12,41,10,79,4.1,369,L5-149,PT-149
+Orthopaedics,Afternoon,126,20,36,11,73,4,374,L5-150,PT-150
+General OPD,Evening,188,21,30,15,76,4.2,398,L5-151,PT-151
+Diagnostics,Late,92,22,44,8,46,3.6,300,L5-152,PT-152
+General OPD,Morning,250,27,34,18,83,3.9,412,L5-153,PT-153
+Diagnostics,Morning,184,19,77,12,92,3.3,490,L5-154,PT-154
+Diagnostics,Afternoon,160,43,53,12,53,3.5,505,L5-155,PT-155
+Diagnostics,Evening,137,31,63,11,60,3.4,475,L5-156,PT-156
+Cardiology,Morning,106,12,42,10,80,3.8,376,L5-157,PT-157
+Orthopaedics,Afternoon,129,18,37,11,74,4,349,L5-158,PT-158
+General OPD,Evening,192,22,28,16,78,4.3,406,L5-159,PT-159
+Diagnostics,Late,94,22,45,8,47,3.7,306,L5-160,PT-160
+General OPD,Morning,233,28,34,19,78,4,420,L5-161,PT-161
+Diagnostics,Morning,187,17,78,12,94,3.1,500,L5-162,PT-162
+Diagnostics,Afternoon,163,44,49,12,55,3.6,470,L5-163,PT-163
+Diagnostics,Evening,140,32,64,11,61,3.4,484,L5-164,PT-164
+Cardiology,Morning,108,12,43,10,75,3.9,384,L5-165,PT-165
+Orthopaedics,Afternoon,120,19,38,11,76,4,356,L5-166,PT-166
+General OPD,Evening,196,20,28,16,80,4.4,378,L5-167,PT-167
+Diagnostics,Late,96,23,42,8,48,3.8,312,L5-168,PT-168
+General OPD,Morning,238,28,35,17,79,4.1,428,L5-169,PT-169
+Diagnostics,Morning,175,18,80,12,87,3.1,510,L5-170,PT-170
+Diagnostics,Afternoon,166,41,50,12,56,3.4,480,L5-171,PT-171
+Diagnostics,Evening,143,32,60,11,63,3.5,451,L5-172,PT-172
+Cardiology,Morning,110,12,44,10,76,3.9,391,L5-173,PT-173
+Orthopaedics,Afternoon,123,19,39,11,71,4,364,L5-174,PT-174
+General OPD,Evening,182,21,29,16,81,4.1,386,L5-175,PT-175
+Diagnostics,Late,98,21,43,8,49,3.8,291,L5-176,PT-176
+General OPD,Morning,242,29,33,18,81,4.2,437,L5-177,PT-177
+Diagnostics,Morning,178,18,81,12,89,3.2,520,L5-178,PT-178
+Diagnostics,Afternoon,155,42,52,12,52,3.4,490,L5-179,PT-179
+Diagnostics,Evening,146,30,61,11,64,3.3,461,L5-180,PT-180
+Cardiology,Morning,112,12,41,10,78,4,365,L5-181,PT-181
+Orthopaedics,Afternoon,125,19,40,11,72,4,371,L5-182,PT-182
+General OPD,Evening,186,21,30,17,76,4.2,394,L5-183,PT-183
+Diagnostics,Late,91,22,44,8,50,3.6,297,L5-184,PT-184
+General OPD,Morning,247,27,33,18,83,4.3,407,L5-185,PT-185
+Diagnostics,Morning,182,19,76,12,91,3.3,530,L5-186,PT-186
+Diagnostics,Afternoon,158,42,53,12,53,3.5,500,L5-187,PT-187
+Diagnostics,Evening,136,31,63,11,60,3.3,470,L5-188,PT-188
+Cardiology,Morning,114,12,42,10,79,3.7,372,L5-189,PT-189
+Orthopaedics,Afternoon,128,20,37,11,74,4,346,L5-190,PT-190
+General OPD,Evening,190,21,30,16,77,4.2,402,L5-191,PT-191
+Diagnostics,Late,93,22,45,8,47,3.7,303,L5-192,PT-192
+General OPD,Morning,230,27,34,18,84,4,416,L5-193,PT-193
+Diagnostics,Morning,185,17,77,12,93,3.3,495,L5-194,PT-194
+Diagnostics,Afternoon,162,43,49,12,54,3.6,510,L5-195,PT-195
+Diagnostics,Evening,139,31,64,11,61,3.4,479,L5-196,PT-196
+Cardiology,Morning,107,12,42,10,74,3.8,380,L5-197,PT-197
+Orthopaedics,Afternoon,130,18,38,11,75,4,353,L5-198,PT-198
+General OPD,Evening,194,22,28,16,79,4.3,374,L5-199,PT-199
+Diagnostics,Late,95,22,46,8,48,3.7,309,L5-200,PT-200
+General OPD,Morning,235,28,35,19,79,4.1,424,L5-201,PT-201
+Diagnostics,Morning,173,18,79,12,95,3.1,505,L5-202,PT-202
+Diagnostics,Afternoon,165,40,50,12,55,3.6,475,L5-203,PT-203
+Diagnostics,Evening,141,32,60,11,62,3.5,489,L5-204,PT-204
+Cardiology,Morning,109,12,43,10,75,3.9,388,L5-205,PT-205
+Orthopaedics,Afternoon,121,19,38,11,70,4,360,L5-206,PT-206
+General OPD,Evening,198,20,29,16,80,4,382,L5-207,PT-207
+Diagnostics,Late,97,23,43,8,48,3.8,288,L5-208,PT-208
+General OPD,Morning,240,29,35,17,80,4.1,433,L5-209,PT-209
+Diagnostics,Morning,176,18,81,12,88,3.2,515,L5-210,PT-210
+Diagnostics,Afternoon,154,41,51,12,56,3.4,485,L5-211,PT-211
+Diagnostics,Evening,144,30,61,11,63,3.5,456,L5-212,PT-212
+Cardiology,Morning,111,12,40,10,77,4,395,L5-213,PT-213
+Orthopaedics,Afternoon,124,19,39,11,72,4,367,L5-214,PT-214
+General OPD,Evening,184,21,29,16,75,4.1,390,L5-215,PT-215
+Diagnostics,Late,99,21,44,8,49,3.6,294,L5-216,PT-216
+General OPD,Morning,245,29,33,18,82,4.2,403,L5-217,PT-217
+Diagnostics,Morning,180,18,82,12,90,3.2,525,L5-218,PT-218
+Diagnostics,Afternoon,157,42,52,12,52,3.5,495,L5-219,PT-219
+Diagnostics,Evening,134,30,62,11,64,3.3,465,L5-220,PT-220
+Cardiology,Morning,113,12,41,10,79,4.1,369,L5-221,PT-221
+Orthopaedics,Afternoon,126,20,36,11,73,4,374,L5-222,PT-222
+General OPD,Evening,188,21,30,15,76,4.2,398,L5-223,PT-223
+Diagnostics,Late,92,22,44,8,46,3.6,300,L5-224,PT-224
+General OPD,Morning,250,27,34,18,83,3.9,412,L5-225,PT-225
+Diagnostics,Morning,184,19,77,12,92,3.3,490,L5-226,PT-226
+Diagnostics,Afternoon,160,43,53,12,53,3.5,505,L5-227,PT-227
+Diagnostics,Evening,137,31,63,11,60,3.4,475,L5-228,PT-228
+Cardiology,Morning,106,12,42,10,80,3.8,376,L5-229,PT-229
+Orthopaedics,Afternoon,129,18,37,11,74,4,349,L5-230,PT-230
+General OPD,Evening,192,22,28,16,78,4.3,406,L5-231,PT-231
+Diagnostics,Late,94,22,45,8,47,3.7,306,L5-232,PT-232
+General OPD,Morning,233,28,34,19,78,4,420,L5-233,PT-233
+Diagnostics,Morning,187,17,78,12,94,3.1,500,L5-234,PT-234
+Diagnostics,Afternoon,163,44,49,12,55,3.6,470,L5-235,PT-235
+Diagnostics,Evening,140,32,64,11,61,3.4,484,L5-236,PT-236
+Cardiology,Morning,108,12,43,10,75,3.9,384,L5-237,PT-237
+Orthopaedics,Afternoon,120,19,38,11,76,4,356,L5-238,PT-238
+General OPD,Evening,196,20,28,16,80,4.4,378,L5-239,PT-239
+Diagnostics,Late,96,23,42,8,48,3.8,312,L5-240,PT-240

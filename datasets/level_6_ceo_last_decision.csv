@@ -1,0 +1,241 @@
+﻿Branch,Revenue ₹L,Operating Cost ₹L,Contribution ₹L,Inventory Category,Inventory Days,Cash Tied Up ₹L,Customer Churn %,Headcount,Marketing Spend ₹L,Record ID,Period
+Branch A,125,85,32,Fast movers,25,8,8,42,8,L6-001,Month 01
+Branch B,98,81,17,Seasonal,69,20,10,37,7,L6-002,Month 02
+Branch C,88,102,-12,Slow movers,90,27,18,39,6,L6-003,Month 03
+Branch D,102,83,21,Critical,34,10,9,40,7,L6-004,Month 04
+Branch A,113,85,31,Fast movers,27,9,8,42,8,L6-005,Month 05
+Branch B,97,74,17,Seasonal,73,21,11,38,7,L6-006,Month 06
+Branch C,87,102,-12,Slow movers,94,30,19,40,6,L6-007,Month 07
+Branch D,105,85,23,Critical,33,10,9,41,7,L6-008,Month 08
+Branch A,116,87,32,Fast movers,23,8,8,43,8,L6-009,Month 09
+Branch B,100,76,18,Seasonal,70,18,10,38,7,L6-010,Month 10
+Branch C,90,104,-12,Slow movers,92,28,16,40,6,L6-011,Month 11
+Branch D,104,85,22,Critical,35,10,9,37,7,L6-012,Month 12
+Branch A,116,87,32,Fast movers,25,9,8,43,8,L6-013,Month 01
+Branch B,90,75,17,Seasonal,75,19,11,38,7,L6-014,Month 02
+Branch C,89,95,-13,Slow movers,96,30,17,41,6,L6-015,Month 03
+Branch D,107,87,21,Critical,34,10,9,38,7,L6-016,Month 04
+Branch A,119,89,33,Fast movers,24,8,8,44,8,L6-017,Month 05
+Branch B,93,77,18,Seasonal,65,19,10,39,7,L6-018,Month 06
+Branch C,92,97,-12,Slow movers,94,26,17,41,6,L6-019,Month 07
+Branch D,106,86,20,Critical,35,10,9,38,7,L6-020,Month 08
+Branch A,118,89,32,Fast movers,26,9,8,40,8,L6-021,Month 09
+Branch B,92,77,17,Seasonal,70,20,11,39,7,L6-022,Month 10
+Branch C,83,97,-13,Slow movers,98,28,18,41,6,L6-023,Month 11
+Branch D,109,81,22,Critical,35,10,9,39,7,L6-024,Month 12
+Branch A,121,91,31,Fast movers,24,8,8,41,8,L6-025,Month 01
+Branch B,95,79,19,Seasonal,67,19,10,40,7,L6-026,Month 02
+Branch C,85,99,-12,Slow movers,87,26,17,42,6,L6-027,Month 03
+Branch D,108,81,21,Critical,36,10,9,39,7,L6-028,Month 04
+Branch A,120,90,30,Fast movers,26,9,8,41,8,L6-029,Month 05
+Branch B,94,79,18,Seasonal,71,20,11,36,7,L6-030,Month 06
+Branch C,84,99,-13,Slow movers,91,29,18,42,6,L6-031,Month 07
+Branch D,102,82,22,Critical,35,10,9,39,7,L6-032,Month 08
+Branch A,124,84,31,Fast movers,24,8,8,42,8,L6-033,Month 09
+Branch B,97,80,17,Seasonal,68,19,10,37,7,L6-034,Month 10
+Branch C,87,101,-12,Slow movers,89,27,17,43,6,L6-035,Month 11
+Branch D,101,82,21,Critical,34,10,9,40,7,L6-036,Month 12
+Branch A,123,84,31,Fast movers,27,9,8,42,8,L6-037,Month 01
+Branch B,96,80,16,Seasonal,73,21,11,37,7,L6-038,Month 02
+Branch C,86,101,-14,Slow movers,93,29,19,39,6,L6-039,Month 03
+Branch D,104,84,22,Critical,33,10,9,40,7,L6-040,Month 04
+Branch A,115,86,32,Fast movers,25,8,8,42,8,L6-041,Month 05
+Branch B,99,75,18,Seasonal,69,20,10,38,7,L6-042,Month 06
+Branch C,89,103,-12,Slow movers,91,28,18,40,6,L6-043,Month 07
+Branch D,103,84,22,Critical,34,10,9,41,7,L6-044,Month 08
+Branch A,114,86,31,Fast movers,25,9,8,43,8,L6-045,Month 09
+Branch B,98,75,17,Seasonal,74,19,11,38,7,L6-046,Month 10
+Branch C,88,103,-13,Slow movers,95,30,17,40,6,L6-047,Month 11
+Branch D,106,86,23,Critical,34,10,9,37,7,L6-048,Month 12
+Branch A,118,88,33,Fast movers,23,8,8,43,8,L6-049,Month 01
+Branch B,92,76,18,Seasonal,71,18,10,38,7,L6-050,Month 02
+Branch C,91,96,-12,Slow movers,93,28,16,41,6,L6-051,Month 03
+Branch D,105,85,20,Critical,35,10,9,38,7,L6-052,Month 04
+Branch A,117,88,32,Fast movers,25,9,8,44,8,L6-053,Month 05
+Branch B,91,76,17,Seasonal,69,20,11,39,7,L6-054,Month 06
+Branch C,89,96,-13,Slow movers,97,28,18,41,6,L6-055,Month 07
+Branch D,108,87,21,Critical,34,10,9,38,7,L6-056,Month 08
+Branch A,120,90,33,Fast movers,24,8,8,40,8,L6-057,Month 09
+Branch B,94,78,18,Seasonal,66,19,10,39,7,L6-058,Month 10
+Branch C,84,98,-12,Slow movers,95,26,17,41,6,L6-059,Month 11
+Branch D,107,80,21,Critical,36,10,9,39,7,L6-060,Month 12
+Branch A,119,90,30,Fast movers,26,9,8,41,8,L6-061,Month 01
+Branch B,93,78,18,Seasonal,71,20,11,40,7,L6-062,Month 02
+Branch C,83,98,-13,Slow movers,90,28,18,42,6,L6-063,Month 03
+Branch D,110,81,22,Critical,35,10,9,39,7,L6-064,Month 04
+Branch A,122,92,31,Fast movers,24,8,8,41,8,L6-065,Month 05
+Branch B,96,80,19,Seasonal,67,19,10,36,7,L6-066,Month 06
+Branch C,86,100,-12,Slow movers,88,27,17,42,6,L6-067,Month 07
+Branch D,100,81,21,Critical,36,10,9,39,7,L6-068,Month 08
+Branch A,122,84,30,Fast movers,27,9,8,42,8,L6-069,Month 09
+Branch B,95,79,16,Seasonal,72,20,11,37,7,L6-070,Month 10
+Branch C,85,100,-13,Slow movers,92,29,18,43,6,L6-071,Month 11
+Branch D,103,83,22,Critical,33,10,9,40,7,L6-072,Month 12
+Branch A,125,85,32,Fast movers,25,8,8,42,8,L6-073,Month 01
+Branch B,98,81,17,Seasonal,69,20,10,37,7,L6-074,Month 02
+Branch C,88,102,-12,Slow movers,90,27,18,39,6,L6-075,Month 03
+Branch D,102,83,21,Critical,34,10,9,40,7,L6-076,Month 04
+Branch A,113,85,31,Fast movers,27,9,8,42,8,L6-077,Month 05
+Branch B,97,74,17,Seasonal,73,21,11,38,7,L6-078,Month 06
+Branch C,87,102,-12,Slow movers,94,30,19,40,6,L6-079,Month 07
+Branch D,105,85,23,Critical,33,10,9,41,7,L6-080,Month 08
+Branch A,116,87,32,Fast movers,23,8,8,43,8,L6-081,Month 09
+Branch B,100,76,18,Seasonal,70,18,10,38,7,L6-082,Month 10
+Branch C,90,104,-12,Slow movers,92,28,16,40,6,L6-083,Month 11
+Branch D,104,85,22,Critical,35,10,9,37,7,L6-084,Month 12
+Branch A,116,87,32,Fast movers,25,9,8,43,8,L6-085,Month 01
+Branch B,90,75,17,Seasonal,75,19,11,38,7,L6-086,Month 02
+Branch C,89,95,-13,Slow movers,96,30,17,41,6,L6-087,Month 03
+Branch D,107,87,21,Critical,34,10,9,38,7,L6-088,Month 04
+Branch A,119,89,33,Fast movers,24,8,8,44,8,L6-089,Month 05
+Branch B,93,77,18,Seasonal,65,19,10,39,7,L6-090,Month 06
+Branch C,92,97,-12,Slow movers,94,26,17,41,6,L6-091,Month 07
+Branch D,106,86,20,Critical,35,10,9,38,7,L6-092,Month 08
+Branch A,118,89,32,Fast movers,26,9,8,40,8,L6-093,Month 09
+Branch B,92,77,17,Seasonal,70,20,11,39,7,L6-094,Month 10
+Branch C,83,97,-13,Slow movers,98,28,18,41,6,L6-095,Month 11
+Branch D,109,81,22,Critical,35,10,9,39,7,L6-096,Month 12
+Branch A,121,91,31,Fast movers,24,8,8,41,8,L6-097,Month 01
+Branch B,95,79,19,Seasonal,67,19,10,40,7,L6-098,Month 02
+Branch C,85,99,-12,Slow movers,87,26,17,42,6,L6-099,Month 03
+Branch D,108,81,21,Critical,36,10,9,39,7,L6-100,Month 04
+Branch A,120,90,30,Fast movers,26,9,8,41,8,L6-101,Month 05
+Branch B,94,79,18,Seasonal,71,20,11,36,7,L6-102,Month 06
+Branch C,84,99,-13,Slow movers,91,29,18,42,6,L6-103,Month 07
+Branch D,102,82,22,Critical,35,10,9,39,7,L6-104,Month 08
+Branch A,124,84,31,Fast movers,24,8,8,42,8,L6-105,Month 09
+Branch B,97,80,17,Seasonal,68,19,10,37,7,L6-106,Month 10
+Branch C,87,101,-12,Slow movers,89,27,17,43,6,L6-107,Month 11
+Branch D,101,82,21,Critical,34,10,9,40,7,L6-108,Month 12
+Branch A,123,84,31,Fast movers,27,9,8,42,8,L6-109,Month 01
+Branch B,96,80,16,Seasonal,73,21,11,37,7,L6-110,Month 02
+Branch C,86,101,-14,Slow movers,93,29,19,39,6,L6-111,Month 03
+Branch D,104,84,22,Critical,33,10,9,40,7,L6-112,Month 04
+Branch A,115,86,32,Fast movers,25,8,8,42,8,L6-113,Month 05
+Branch B,99,75,18,Seasonal,69,20,10,38,7,L6-114,Month 06
+Branch C,89,103,-12,Slow movers,91,28,18,40,6,L6-115,Month 07
+Branch D,103,84,22,Critical,34,10,9,41,7,L6-116,Month 08
+Branch A,114,86,31,Fast movers,25,9,8,43,8,L6-117,Month 09
+Branch B,98,75,17,Seasonal,74,19,11,38,7,L6-118,Month 10
+Branch C,88,103,-13,Slow movers,95,30,17,40,6,L6-119,Month 11
+Branch D,106,86,23,Critical,34,10,9,37,7,L6-120,Month 12
+Branch A,118,88,33,Fast movers,23,8,8,43,8,L6-121,Month 01
+Branch B,92,76,18,Seasonal,71,18,10,38,7,L6-122,Month 02
+Branch C,91,96,-12,Slow movers,93,28,16,41,6,L6-123,Month 03
+Branch D,105,85,20,Critical,35,10,9,38,7,L6-124,Month 04
+Branch A,117,88,32,Fast movers,25,9,8,44,8,L6-125,Month 05
+Branch B,91,76,17,Seasonal,69,20,11,39,7,L6-126,Month 06
+Branch C,89,96,-13,Slow movers,97,28,18,41,6,L6-127,Month 07
+Branch D,108,87,21,Critical,34,10,9,38,7,L6-128,Month 08
+Branch A,120,90,33,Fast movers,24,8,8,40,8,L6-129,Month 09
+Branch B,94,78,18,Seasonal,66,19,10,39,7,L6-130,Month 10
+Branch C,84,98,-12,Slow movers,95,26,17,41,6,L6-131,Month 11
+Branch D,107,80,21,Critical,36,10,9,39,7,L6-132,Month 12
+Branch A,119,90,30,Fast movers,26,9,8,41,8,L6-133,Month 01
+Branch B,93,78,18,Seasonal,71,20,11,40,7,L6-134,Month 02
+Branch C,83,98,-13,Slow movers,90,28,18,42,6,L6-135,Month 03
+Branch D,110,81,22,Critical,35,10,9,39,7,L6-136,Month 04
+Branch A,122,92,31,Fast movers,24,8,8,41,8,L6-137,Month 05
+Branch B,96,80,19,Seasonal,67,19,10,36,7,L6-138,Month 06
+Branch C,86,100,-12,Slow movers,88,27,17,42,6,L6-139,Month 07
+Branch D,100,81,21,Critical,36,10,9,39,7,L6-140,Month 08
+Branch A,122,84,30,Fast movers,27,9,8,42,8,L6-141,Month 09
+Branch B,95,79,16,Seasonal,72,20,11,37,7,L6-142,Month 10
+Branch C,85,100,-13,Slow movers,92,29,18,43,6,L6-143,Month 11
+Branch D,103,83,22,Critical,33,10,9,40,7,L6-144,Month 12
+Branch A,125,85,32,Fast movers,25,8,8,42,8,L6-145,Month 01
+Branch B,98,81,17,Seasonal,69,20,10,37,7,L6-146,Month 02
+Branch C,88,102,-12,Slow movers,90,27,18,39,6,L6-147,Month 03
+Branch D,102,83,21,Critical,34,10,9,40,7,L6-148,Month 04
+Branch A,113,85,31,Fast movers,27,9,8,42,8,L6-149,Month 05
+Branch B,97,74,17,Seasonal,73,21,11,38,7,L6-150,Month 06
+Branch C,87,102,-12,Slow movers,94,30,19,40,6,L6-151,Month 07
+Branch D,105,85,23,Critical,33,10,9,41,7,L6-152,Month 08
+Branch A,116,87,32,Fast movers,23,8,8,43,8,L6-153,Month 09
+Branch B,100,76,18,Seasonal,70,18,10,38,7,L6-154,Month 10
+Branch C,90,104,-12,Slow movers,92,28,16,40,6,L6-155,Month 11
+Branch D,104,85,22,Critical,35,10,9,37,7,L6-156,Month 12
+Branch A,116,87,32,Fast movers,25,9,8,43,8,L6-157,Month 01
+Branch B,90,75,17,Seasonal,75,19,11,38,7,L6-158,Month 02
+Branch C,89,95,-13,Slow movers,96,30,17,41,6,L6-159,Month 03
+Branch D,107,87,21,Critical,34,10,9,38,7,L6-160,Month 04
+Branch A,119,89,33,Fast movers,24,8,8,44,8,L6-161,Month 05
+Branch B,93,77,18,Seasonal,65,19,10,39,7,L6-162,Month 06
+Branch C,92,97,-12,Slow movers,94,26,17,41,6,L6-163,Month 07
+Branch D,106,86,20,Critical,35,10,9,38,7,L6-164,Month 08
+Branch A,118,89,32,Fast movers,26,9,8,40,8,L6-165,Month 09
+Branch B,92,77,17,Seasonal,70,20,11,39,7,L6-166,Month 10
+Branch C,83,97,-13,Slow movers,98,28,18,41,6,L6-167,Month 11
+Branch D,109,81,22,Critical,35,10,9,39,7,L6-168,Month 12
+Branch A,121,91,31,Fast movers,24,8,8,41,8,L6-169,Month 01
+Branch B,95,79,19,Seasonal,67,19,10,40,7,L6-170,Month 02
+Branch C,85,99,-12,Slow movers,87,26,17,42,6,L6-171,Month 03
+Branch D,108,81,21,Critical,36,10,9,39,7,L6-172,Month 04
+Branch A,120,90,30,Fast movers,26,9,8,41,8,L6-173,Month 05
+Branch B,94,79,18,Seasonal,71,20,11,36,7,L6-174,Month 06
+Branch C,84,99,-13,Slow movers,91,29,18,42,6,L6-175,Month 07
+Branch D,102,82,22,Critical,35,10,9,39,7,L6-176,Month 08
+Branch A,124,84,31,Fast movers,24,8,8,42,8,L6-177,Month 09
+Branch B,97,80,17,Seasonal,68,19,10,37,7,L6-178,Month 10
+Branch C,87,101,-12,Slow movers,89,27,17,43,6,L6-179,Month 11
+Branch D,101,82,21,Critical,34,10,9,40,7,L6-180,Month 12
+Branch A,123,84,31,Fast movers,27,9,8,42,8,L6-181,Month 01
+Branch B,96,80,16,Seasonal,73,21,11,37,7,L6-182,Month 02
+Branch C,86,101,-14,Slow movers,93,29,19,39,6,L6-183,Month 03
+Branch D,104,84,22,Critical,33,10,9,40,7,L6-184,Month 04
+Branch A,115,86,32,Fast movers,25,8,8,42,8,L6-185,Month 05
+Branch B,99,75,18,Seasonal,69,20,10,38,7,L6-186,Month 06
+Branch C,89,103,-12,Slow movers,91,28,18,40,6,L6-187,Month 07
+Branch D,103,84,22,Critical,34,10,9,41,7,L6-188,Month 08
+Branch A,114,86,31,Fast movers,25,9,8,43,8,L6-189,Month 09
+Branch B,98,75,17,Seasonal,74,19,11,38,7,L6-190,Month 10
+Branch C,88,103,-13,Slow movers,95,30,17,40,6,L6-191,Month 11
+Branch D,106,86,23,Critical,34,10,9,37,7,L6-192,Month 12
+Branch A,118,88,33,Fast movers,23,8,8,43,8,L6-193,Month 01
+Branch B,92,76,18,Seasonal,71,18,10,38,7,L6-194,Month 02
+Branch C,91,96,-12,Slow movers,93,28,16,41,6,L6-195,Month 03
+Branch D,105,85,20,Critical,35,10,9,38,7,L6-196,Month 04
+Branch A,117,88,32,Fast movers,25,9,8,44,8,L6-197,Month 05
+Branch B,91,76,17,Seasonal,69,20,11,39,7,L6-198,Month 06
+Branch C,89,96,-13,Slow movers,97,28,18,41,6,L6-199,Month 07
+Branch D,108,87,21,Critical,34,10,9,38,7,L6-200,Month 08
+Branch A,120,90,33,Fast movers,24,8,8,40,8,L6-201,Month 09
+Branch B,94,78,18,Seasonal,66,19,10,39,7,L6-202,Month 10
+Branch C,84,98,-12,Slow movers,95,26,17,41,6,L6-203,Month 11
+Branch D,107,80,21,Critical,36,10,9,39,7,L6-204,Month 12
+Branch A,119,90,30,Fast movers,26,9,8,41,8,L6-205,Month 01
+Branch B,93,78,18,Seasonal,71,20,11,40,7,L6-206,Month 02
+Branch C,83,98,-13,Slow movers,90,28,18,42,6,L6-207,Month 03
+Branch D,110,81,22,Critical,35,10,9,39,7,L6-208,Month 04
+Branch A,122,92,31,Fast movers,24,8,8,41,8,L6-209,Month 05
+Branch B,96,80,19,Seasonal,67,19,10,36,7,L6-210,Month 06
+Branch C,86,100,-12,Slow movers,88,27,17,42,6,L6-211,Month 07
+Branch D,100,81,21,Critical,36,10,9,39,7,L6-212,Month 08
+Branch A,122,84,30,Fast movers,27,9,8,42,8,L6-213,Month 09
+Branch B,95,79,16,Seasonal,72,20,11,37,7,L6-214,Month 10
+Branch C,85,100,-13,Slow movers,92,29,18,43,6,L6-215,Month 11
+Branch D,103,83,22,Critical,33,10,9,40,7,L6-216,Month 12
+Branch A,125,85,32,Fast movers,25,8,8,42,8,L6-217,Month 01
+Branch B,98,81,17,Seasonal,69,20,10,37,7,L6-218,Month 02
+Branch C,88,102,-12,Slow movers,90,27,18,39,6,L6-219,Month 03
+Branch D,102,83,21,Critical,34,10,9,40,7,L6-220,Month 04
+Branch A,113,85,31,Fast movers,27,9,8,42,8,L6-221,Month 05
+Branch B,97,74,17,Seasonal,73,21,11,38,7,L6-222,Month 06
+Branch C,87,102,-12,Slow movers,94,30,19,40,6,L6-223,Month 07
+Branch D,105,85,23,Critical,33,10,9,41,7,L6-224,Month 08
+Branch A,116,87,32,Fast movers,23,8,8,43,8,L6-225,Month 09
+Branch B,100,76,18,Seasonal,70,18,10,38,7,L6-226,Month 10
+Branch C,90,104,-12,Slow movers,92,28,16,40,6,L6-227,Month 11
+Branch D,104,85,22,Critical,35,10,9,37,7,L6-228,Month 12
+Branch A,116,87,32,Fast movers,25,9,8,43,8,L6-229,Month 01
+Branch B,90,75,17,Seasonal,75,19,11,38,7,L6-230,Month 02
+Branch C,89,95,-13,Slow movers,96,30,17,41,6,L6-231,Month 03
+Branch D,107,87,21,Critical,34,10,9,38,7,L6-232,Month 04
+Branch A,119,89,33,Fast movers,24,8,8,44,8,L6-233,Month 05
+Branch B,93,77,18,Seasonal,65,19,10,39,7,L6-234,Month 06
+Branch C,92,97,-12,Slow movers,94,26,17,41,6,L6-235,Month 07
+Branch D,106,86,20,Critical,35,10,9,38,7,L6-236,Month 08
+Branch A,118,89,32,Fast movers,26,9,8,40,8,L6-237,Month 09
+Branch B,92,77,17,Seasonal,70,20,11,39,7,L6-238,Month 10
+Branch C,83,97,-13,Slow movers,98,28,18,41,6,L6-239,Month 11
+Branch D,109,81,22,Critical,35,10,9,39,7,L6-240,Month 12
